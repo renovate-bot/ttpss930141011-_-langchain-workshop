@@ -9,7 +9,7 @@ config = dotenv_values(".env")
 os.environ["OPENAI_API_KEY"] = config.get("OPENAI_API_KEY")
 
 # 导入文本
-loader = UnstructuredFileLoader("./content/data/lg_test.txt")
+loader = UnstructuredFileLoader("./data/text/lg_test.txt")
 # 将文本转成 Document 对象
 document = loader.load()
 print(f'documents:{len(document)}')
