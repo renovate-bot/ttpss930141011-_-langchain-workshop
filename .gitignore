@@ -1,3 +1,4 @@
+.chroma
 .vscode
 .env
-data
+data/vector_store/*

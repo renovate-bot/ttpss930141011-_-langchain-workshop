@@ -1,0 +1,14 @@
+VIA生產的晶片組，能爲主流的Intel和AMD CPU提供支援，當然也能為自家的CPU提供支援；甚至連中國大陸自行研製的龍芯系列處理器，也由VIA晶片組的南橋晶片提供輸入輸出功能。
+
+請注意：以下的列表並不完整，以官方網站所載資料為準
+
+VIA MVP3—最受歡迎的超級Socket 7晶片組，擁有AGP介面1.0，最高512MB PC-100 SDRAM支援，最大到2MB L2快取。更新後到MVP4整合Trident繪圖以及改進ATA-66磁碟介面。
+Apollo Pro133—第一個VIA支援133 MHz前端匯流排（Slot 1/Socket 370），以及也許最重要是支援133 MHz SDRAM記憶體。Apollo Pro133A是AGP 4X的支援。
+Apollo Pro133A, Apollo KX133/KT133/KT133A—Apollo KX133是對AMD Athlon處理器Slot A的模型範例。接著是Apollo KT133針對Socket A的AMD Athlon/Duron處理器。晶片組後來調校更改為KT133A，主要針對記憶體控制器的調校，以及一些改進的特色。KT133A提供穩定和效能之晶片組。
+ProSavage PM133/KM133—從S3而來的繪圖核心為基礎，提供Savage4的3D成份和Savage2000的2D之結合。這也是VIA的第一個自家整合型晶片。
+VIA KT266, VIA KT266A, VIA KT333, VIA KT400, VIA KT400A, VIA KT600—針對Athlon處理器的DDR記憶體更新。規格的部份值得注意的是提供不預期的速度改進。一系列的版本更新到最近的記憶體速度等級，從晶片組的稱謂上反映可以看出。最後，KT880能與雙通道記憶體的nForce2晶片組相匹敵，但由於其推向市場時已晚競爭對手nForce2許多時日，且面臨所支援的K7平台已逐漸淡出市場，故市場銷量並不高。
+VIA PT800是VIA推出的Pentium 4單通道晶片組。
+VIA PT880是VIA推出的第一個Pentium 4雙通道晶片組。
+VIA K8T800, VIA K8T800 PRO—Athlon 64晶片組。建立起早期的市場領先地位，擁有豐富的特色，以及全速的HyperTransport實作。
+VIA K8T890—VIA的第一個Athlon 64 PCIe晶片組。
+VIA K8T900與VIA K8T890相似，但支援一條PCI-E 16X或分成兩條PCI-E 8X。
