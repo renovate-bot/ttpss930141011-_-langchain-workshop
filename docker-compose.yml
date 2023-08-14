@@ -1,0 +1,11 @@
+version: '3'
+services:
+  langchain-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /app
+    env_file: .env
+    volumes:
+      - .:/app
+    command: ["python", "gpt35_turbo.py"]
